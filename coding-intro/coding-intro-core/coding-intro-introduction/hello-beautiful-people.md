@@ -14,7 +14,7 @@ setupCode:
 
 ---
 
-# Hello Beautiful People
+# Hello
 
 ---
 
